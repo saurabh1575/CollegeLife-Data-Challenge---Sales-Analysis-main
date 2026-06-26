@@ -98,7 +98,5 @@ Recommendations based on the EDA are as follows:
 7] Stores are advised to keep sufficient stock of "All Family Cereal", "Pretzels", and "Kids Cereal" sub-categories as they are highly popular and account for more than 70% of the units sold.
 
 
-## Live Dashboard
 
-https://prod-useast-b.online.tableau.com/t/tableauprojectgallery/views/SalesAnalysis/CollegeLifeDataChallenge?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
 
